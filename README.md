@@ -9,7 +9,7 @@
 <h2>What do I want to work as?</h2>
 
 ```mermaid
-pie title Willingness to work in a role
+pie title My preferences for the role
     "backend developer" : 70
     "database developer" : 20
     "mobile developer" : 6
