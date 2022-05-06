@@ -15,7 +15,7 @@ pie title My preferences for the role
     "mobile developer" : 6
     "frontend developer" : 4
 ```
-<blockquote>But I am always happy to learn new things and become part of a team very quickly. So with proper training, I'm ready to try my hand at a new role.</blockquote>
+<blockquote>But I am always happy to learn new things and become part of a team very quickly. So with proper training, I'm ready to try a new role.</blockquote>
 
 <h2>What Languages and Tools do I use?</h2>
 
