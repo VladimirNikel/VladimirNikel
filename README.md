@@ -10,10 +10,10 @@
 
 ```mermaid
 pie title My preferences for the role
-    "backend developer" : 70
+    "backend developer" : 60
     "database developer" : 20
-    "mobile developer" : 6
-    "frontend developer" : 4
+    "frontend developer" : 14
+    "mobile developer" : 6    
 ```
 <blockquote>But I am always happy to learn new things and become part of a team very quickly. So with proper training, I'm ready to try myself a new role.</blockquote>
 
